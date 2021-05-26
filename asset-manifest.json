@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/VibezMusicPlayer/static/css/main.ef2b3607.chunk.css",
-    "main.js": "/VibezMusicPlayer/static/js/main.c262fed5.chunk.js",
-    "main.js.map": "/VibezMusicPlayer/static/js/main.c262fed5.chunk.js.map",
-    "runtime-main.js": "/VibezMusicPlayer/static/js/runtime-main.c0190ba0.js",
-    "runtime-main.js.map": "/VibezMusicPlayer/static/js/runtime-main.c0190ba0.js.map",
-    "static/js/2.7e91a0ea.chunk.js": "/VibezMusicPlayer/static/js/2.7e91a0ea.chunk.js",
-    "static/js/2.7e91a0ea.chunk.js.map": "/VibezMusicPlayer/static/js/2.7e91a0ea.chunk.js.map",
-    "index.html": "/VibezMusicPlayer/index.html",
-    "precache-manifest.7dab9aaec0588d24f7e335babb261844.js": "/VibezMusicPlayer/precache-manifest.7dab9aaec0588d24f7e335babb261844.js",
-    "service-worker.js": "/VibezMusicPlayer/service-worker.js",
-    "static/css/main.ef2b3607.chunk.css.map": "/VibezMusicPlayer/static/css/main.ef2b3607.chunk.css.map",
-    "static/js/2.7e91a0ea.chunk.js.LICENSE.txt": "/VibezMusicPlayer/static/js/2.7e91a0ea.chunk.js.LICENSE.txt"
+    "main.css": "/NetflixClone/static/css/main.ef2b3607.chunk.css",
+    "main.js": "/NetflixClone/static/js/main.ff56e0b4.chunk.js",
+    "main.js.map": "/NetflixClone/static/js/main.ff56e0b4.chunk.js.map",
+    "runtime-main.js": "/NetflixClone/static/js/runtime-main.cb66b7ab.js",
+    "runtime-main.js.map": "/NetflixClone/static/js/runtime-main.cb66b7ab.js.map",
+    "static/js/2.754e7dce.chunk.js": "/NetflixClone/static/js/2.754e7dce.chunk.js",
+    "static/js/2.754e7dce.chunk.js.map": "/NetflixClone/static/js/2.754e7dce.chunk.js.map",
+    "index.html": "/NetflixClone/index.html",
+    "precache-manifest.c6e69d8aaab424d50bc9c28c9335e227.js": "/NetflixClone/precache-manifest.c6e69d8aaab424d50bc9c28c9335e227.js",
+    "service-worker.js": "/NetflixClone/service-worker.js",
+    "static/css/main.ef2b3607.chunk.css.map": "/NetflixClone/static/css/main.ef2b3607.chunk.css.map",
+    "static/js/2.754e7dce.chunk.js.LICENSE.txt": "/NetflixClone/static/js/2.754e7dce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0190ba0.js",
-    "static/js/2.7e91a0ea.chunk.js",
+    "static/js/runtime-main.cb66b7ab.js",
+    "static/js/2.754e7dce.chunk.js",
     "static/css/main.ef2b3607.chunk.css",
-    "static/js/main.c262fed5.chunk.js"
+    "static/js/main.ff56e0b4.chunk.js"
   ]
 }
