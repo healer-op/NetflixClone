@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/NetflixClone/static/css/main.ef2b3607.chunk.css",
-    "main.js": "/NetflixClone/static/js/main.d9992da6.chunk.js",
-    "main.js.map": "/NetflixClone/static/js/main.d9992da6.chunk.js.map",
-    "runtime-main.js": "/NetflixClone/static/js/runtime-main.cb66b7ab.js",
-    "runtime-main.js.map": "/NetflixClone/static/js/runtime-main.cb66b7ab.js.map",
-    "static/js/2.754e7dce.chunk.js": "/NetflixClone/static/js/2.754e7dce.chunk.js",
-    "static/js/2.754e7dce.chunk.js.map": "/NetflixClone/static/js/2.754e7dce.chunk.js.map",
+    "main.css": "/NetflixClone/static/css/main.449fcaff.chunk.css",
+    "main.js": "/NetflixClone/static/js/main.9c0dba12.chunk.js",
+    "main.js.map": "/NetflixClone/static/js/main.9c0dba12.chunk.js.map",
+    "runtime-main.js": "/NetflixClone/static/js/runtime-main.5b66c7d3.js",
+    "runtime-main.js.map": "/NetflixClone/static/js/runtime-main.5b66c7d3.js.map",
+    "static/js/2.1153424b.chunk.js": "/NetflixClone/static/js/2.1153424b.chunk.js",
+    "static/js/2.1153424b.chunk.js.map": "/NetflixClone/static/js/2.1153424b.chunk.js.map",
     "index.html": "/NetflixClone/index.html",
-    "precache-manifest.afcf501fe67ab7b672f80f6b166255d8.js": "/NetflixClone/precache-manifest.afcf501fe67ab7b672f80f6b166255d8.js",
-    "service-worker.js": "/NetflixClone/service-worker.js",
-    "static/css/main.ef2b3607.chunk.css.map": "/NetflixClone/static/css/main.ef2b3607.chunk.css.map",
-    "static/js/2.754e7dce.chunk.js.LICENSE.txt": "/NetflixClone/static/js/2.754e7dce.chunk.js.LICENSE.txt"
+    "static/css/main.449fcaff.chunk.css.map": "/NetflixClone/static/css/main.449fcaff.chunk.css.map",
+    "static/js/2.1153424b.chunk.js.LICENSE.txt": "/NetflixClone/static/js/2.1153424b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/NetflixClone/static/media/logo.154b5181.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb66b7ab.js",
-    "static/js/2.754e7dce.chunk.js",
-    "static/css/main.ef2b3607.chunk.css",
-    "static/js/main.d9992da6.chunk.js"
+    "static/js/runtime-main.5b66c7d3.js",
+    "static/js/2.1153424b.chunk.js",
+    "static/css/main.449fcaff.chunk.css",
+    "static/js/main.9c0dba12.chunk.js"
   ]
 }
