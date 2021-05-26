@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/NetflixClone/static/css/main.449fcaff.chunk.css",
-    "main.js": "/NetflixClone/static/js/main.9c0dba12.chunk.js",
-    "main.js.map": "/NetflixClone/static/js/main.9c0dba12.chunk.js.map",
-    "runtime-main.js": "/NetflixClone/static/js/runtime-main.5b66c7d3.js",
-    "runtime-main.js.map": "/NetflixClone/static/js/runtime-main.5b66c7d3.js.map",
-    "static/js/2.1153424b.chunk.js": "/NetflixClone/static/js/2.1153424b.chunk.js",
-    "static/js/2.1153424b.chunk.js.map": "/NetflixClone/static/js/2.1153424b.chunk.js.map",
-    "index.html": "/NetflixClone/index.html",
-    "static/css/main.449fcaff.chunk.css.map": "/NetflixClone/static/css/main.449fcaff.chunk.css.map",
-    "static/js/2.1153424b.chunk.js.LICENSE.txt": "/NetflixClone/static/js/2.1153424b.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/NetflixClone/static/media/logo.154b5181.png"
+    "main.css": "/VibezMusicPlayer/static/css/main.9da06d1c.chunk.css",
+    "main.js": "/VibezMusicPlayer/static/js/main.9c0dba12.chunk.js",
+    "main.js.map": "/VibezMusicPlayer/static/js/main.9c0dba12.chunk.js.map",
+    "runtime-main.js": "/VibezMusicPlayer/static/js/runtime-main.1ed29012.js",
+    "runtime-main.js.map": "/VibezMusicPlayer/static/js/runtime-main.1ed29012.js.map",
+    "static/js/2.1153424b.chunk.js": "/VibezMusicPlayer/static/js/2.1153424b.chunk.js",
+    "static/js/2.1153424b.chunk.js.map": "/VibezMusicPlayer/static/js/2.1153424b.chunk.js.map",
+    "index.html": "/VibezMusicPlayer/index.html",
+    "static/css/main.9da06d1c.chunk.css.map": "/VibezMusicPlayer/static/css/main.9da06d1c.chunk.css.map",
+    "static/js/2.1153424b.chunk.js.LICENSE.txt": "/VibezMusicPlayer/static/js/2.1153424b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/VibezMusicPlayer/static/media/logo.154b5181.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b66c7d3.js",
+    "static/js/runtime-main.1ed29012.js",
     "static/js/2.1153424b.chunk.js",
-    "static/css/main.449fcaff.chunk.css",
+    "static/css/main.9da06d1c.chunk.css",
     "static/js/main.9c0dba12.chunk.js"
   ]
 }
